@@ -1,0 +1,152 @@
+BP13A:
+  type: article
+  title: Gödel's God in Isabelle/HOL
+  author:
+    - Benzmüller, Christoph
+    - name: Bruno Woltzenlogel
+      given-name: Paleo
+  date: 2013-11
+  url: https://www.isa-afp.org/entries/GoedelGod.html
+  serial-number:
+    issn: 2150-914x
+  parent:
+    type: periodical
+    title: Archive of Formal Proofs
+
+Ben20:
+  type: article
+  title:
+    value: "A (Simplified) Supreme Being Necessarily Exists, Says the Computer: Computationally Explored Variants of Gödel's Ontological Argument"
+    short: A (Simplified) Supreme Being Necessarily Exists, Says the Computer
+  author: Benzmüller, Christoph
+  date: 2020-07
+  page-range: 779-789
+  url: https://proceedings.kr.org/2020/80
+  serial-number:
+    doi: 10.24963/kr.2020/80
+    isbn: 978-0-9992411-7-2
+  parent:
+    - type: proceedings
+      title: Proceedings of the Seventeenth International Conference on Principles of Knowledge Representation and Reasoning
+      publisher:
+        name: International Joint Conferences on Artificial Intelligence Organization
+        location: Rhodes, Greece
+    - type: conference
+      title: 17th International Conference on Principles of Knowledge Representation and Reasoning KR-2020
+
+Fit02:
+  type: book
+  title: Types, Tableaus, and Gödel's God
+  author: Fitting, Melvin Chris
+  date: 2002
+  publisher:
+    name: Springer Netherlands
+    location: Dordrecht
+  serial-number:
+    isbn: 978-94-010-3912-3
+
+BS25:
+  type: article
+  title: Notes on {Gödel}’s and {Scott}’s Variants of the Ontological Argument
+  author:
+    - Benzmüller, Christoph
+    - Scott, Dana
+  date: 2025-12
+  page-range: 569-611
+  url: https://link.springer.com/10.1007/s00605-025-02078-x
+  serial-number:
+    doi: 10.1007/s00605-025-02078-x
+    issn: 0026-9255, 1436-5081
+  parent:
+    type: periodical
+    title: Monatshefte für Mathematik
+    issue: 4
+    volume: 208
+
+BS25A:
+  type: article
+  title: Notes on Gödel’s and Scott’s Variants of the Ontological Argument (Isabelle/HOL dataset)
+  author:
+    - Benzmüller, Christoph
+    - Scott, Dana
+  date: 2025-01
+  serial-number:
+    issn: 2150-914x
+  parent:
+    - type: periodical
+      title: Archive of Formal Proofs
+
+GödCW3:
+  type: book
+  title: Collected Works
+  author: Gödel, Kurt
+  date: 1986
+  editor: Feferman, Solomon
+  publisher:
+    name: Oxford university press Clarendon press
+    location: New York London
+  issue: 3
+  serial-number:
+    isbn: 978-0-19-503964-1 978-0-19-503972-6 978-0-19-507255-6
+  parent:
+    type: book
+    title: Collected Works
+
+Sob03:
+  type: book
+  title:
+    value: "Logic and {Theism}: {Arguments} for and against {Beliefs} in {God}"
+    short: Logic and {Theism}
+  author: Sobel, Jordan Howard
+  date: 2003-11-10
+  publisher: Cambridge University Press
+  edition: 1
+  url:
+    value: https://www.cambridge.org/core/product/identifier/9780511497988/type/book
+    date: 2025-12-31
+  serial-number:
+    doi: 10.1017/CBO9780511497988
+    isbn: 978-0-521-82607-5 978-0-521-10866-9 978-0-511-49798-
+
+Sob03GödNote:
+  type: chapter
+  title: A {Notes} in {Kurt Gödel}'s {Hand}
+  author: Gödel, Kurt
+  date: 2003-11-10
+  url:
+    value: https://www.cambridge.org/core/product/identifier/9780511497988/type/book
+    date: 2025-12-31
+  serial-number:
+    doi: 10.1017/CBO9780511497988
+    isbn: 978-0-521-82607-5 978-0-521-10866-9 978-0-511-49798-8
+  parent:
+    type: book
+    title: "Logic and {Theism}: {Arguments} for and against {Beliefs} in {God}"
+    author: Sobel, Jordan Howard
+    publisher: Cambridge University Press
+    edition: 1
+
+Sob03ScoNote:
+  type: chapter
+  title: A {Notes} in {Dana Scott}'s {Hand}
+  author: Scott, Dana
+  date: 2003-11-10
+  url:
+    value: https://www.cambridge.org/core/product/identifier/9780511497988/type/book
+    date: 2025-12-31
+  serial-number:
+    doi: 10.1017/CBO9780511497988
+    isbn: 978-0-521-82607-5 978-0-521-10866-9 978-0-511-49798-8
+  parent:
+    type: book
+    title: "Logic and {Theism}: {Arguments} for and against {Beliefs} in {God}"
+    author: Sobel, Jordan Howard
+    publisher: Cambridge University Press
+    edition: 1
+
+Pal22:
+  type: web
+  url: https://github.com/iehality/goedelgod
+  title: iehality/goedelgod
+  author: Palalansoukî
+  date: 2022-08-01
